@@ -1,2 +1,5 @@
 .venv
 TODO
+.env
+test.db
+.coverage
